@@ -1,0 +1,4 @@
+fill_number,first_run_number,last_run_number,duration,start_time,end_time,start_stable_beam,end_stable_beam,delivered_lumi_stablebeams,recorded_lumi_stablebeams,downtime,efficiency_lumi_stablebeams,peak_lumi,peak_pileup,fill_type_runtime,bunches_colliding,beta_star,energy,injection_scheme
+10530,391133,391137,8623,2025-04-26 17:44:11,2025-04-26 21:19:15,2025-04-26 18:39:29,2025-04-26 21:03:12,0.001101343328,8.86340224E-4,1039,80.478,2.49438249E-4,0.220377,PROTONS,4,1100.0,449.76,Single_12b_8_8_8_1bpi_12inj
+10491,390953,390960,17300,2025-04-22 07:30:31,2025-04-22 13:16:18,2025-04-22 07:58:16,2025-04-22 12:46:36,0.001834160649,0.00161321982,1565,87.954,3.00647487E-4,0.25362,PROTONS,8,1100.0,449.76,Single_12b_8_8_8_1bpi_12inj
+10489,390950,390951,584,2025-04-22 06:45:04,2025-04-22 07:30:01,2025-04-22 07:09:16,2025-04-22 07:19:00,1.22507312E-4,1.13049844E-4,24,92.28,2.89209048E-4,0.217664,PROTONS,8,1100.0,449.76,Single_12b_8_8_8_1bpi_12inj
